@@ -7,7 +7,6 @@
 # Log file
 *.log
 
-allure-result/
 build
 target/
 .idea/
